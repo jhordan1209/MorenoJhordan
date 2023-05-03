@@ -26,8 +26,8 @@
 
 
                    <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Fisco-Misional Sagado Corazon donde me gradue en el año 1989, de la especialidad de Físico-Matemático, apenas me gradue viaje a Guayaquil para seguir mis estudios universitarios en la Escuela Superior Politécnica del Litoral donde seguí la carrera de Ingeniería en Computación, gracias a la demanda que exitía en este tiempo de este tipo de profesionales comencé a trabajar mientra estaba estudiando, prestando mis servicios profesionales en empresas como Poligráfica, El telegráfo, Intecorsorcio; mientras trabajaba en esta última logré obtener mi título de Ingeniero de Computación.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+                  
+
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
